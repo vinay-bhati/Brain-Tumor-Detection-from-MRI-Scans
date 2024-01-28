@@ -12,15 +12,15 @@ The dataset used in this project comprises MRI images from the Brain Tumor Class
 Kaggle Dataset - https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
 
 ## Dependencies 🛠️
-• **Python 3
-• TensorFlow
-• Keras
-• NumPy
-• Pandas
-• OpenCV
-• Matplotlib
-• Seaborn
-• scikit-learn**
+• **Python 3  
+• TensorFlow  
+• Keras  
+• NumPy  
+• Pandas  
+• OpenCV  
+• Matplotlib  
+• Seaborn  
+• scikit-learn**  
 
 ## Model Architecture 🏗️
 The CNN model architecture consists of multiple convolutional layers followed by max-pooling layers and dropout layers to prevent overfitting. The final layers include fully connected dense layers with softmax activation for multi-class classification.
