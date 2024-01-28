@@ -43,10 +43,10 @@ Upon training and evaluation, the model achieved an accuracy of 85% on the test 
 ## Future Work 🔮📈
 There are several avenues for future work in this project:
 
-• Explore advanced CNN architectures for improved classification performance.
-• Incorporate data augmentation techniques to enhance model generalization.
-• Experiment with transfer learning using pre-trained models for feature extraction.
-• Deploy the model as a web or mobile application for real-time brain tumor detection.
+• Explore advanced CNN architectures for improved classification performance.  
+• Incorporate data augmentation techniques to enhance model generalization.  
+• Experiment with transfer learning using pre-trained models for feature extraction.  
+• Deploy the model as a web or mobile application for real-time brain tumor detection.  
 
 ## Conclusion 🔍
 In this project, we demonstrated the effectiveness of CNNs in brain tumor detection using MRI images. By leveraging deep learning techniques, we can contribute to the development of automated and accurate diagnostic tools for medical professionals, ultimately improving patient care and outcomes in the field of neuroimaging.
