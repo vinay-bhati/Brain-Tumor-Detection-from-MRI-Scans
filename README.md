@@ -9,8 +9,8 @@ Brain tumor detection involves the analysis of medical imaging data, such as MRI
 ## Dataset 📊
 The dataset used in this project comprises MRI images from the Brain Tumor Classification MRI dataset available on Kaggle. It consists of four classes: glioma tumor, meningioma tumor, no tumor, and pituitary tumor. The dataset is organized into training and testing sets for model development and evaluation.
 
-Kaggle Dataset - https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip  
-                 https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip
+https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip  
+https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_text.zip
 
 ## Dependencies 🛠️
 • **Python 3  
